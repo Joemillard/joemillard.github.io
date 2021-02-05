@@ -3,3 +3,5 @@ title: "About"
 ---
 
 I’m Joe, a data scientist and computational ecologist at UCL interested in the causes and consequences of global pollinator biodiversity change, and the power of online data in quantifying biodiversity awareness.
+
+Prior to my PhD I worked at UNEP-WCMC building automated data handling systems for wildlife trade data, and at the journal Scientific Reports in manuscript peer-review and decisions. 

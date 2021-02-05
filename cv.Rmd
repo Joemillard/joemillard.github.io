@@ -8,7 +8,7 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 - **PhD Computational Ecology – UCL London NERC DTP** (2017-present)
   - Thesis: Pollinator biodiversity change in the Anthropocene  
 - **MSc Biodiversity and Conservation, Distinction (1st) – The University of Leeds** (2014-2015)
-  - Thesis: A Satellite Telemetry Investigation of Caspian Seal (Pusa caspica) Activity Budgets
+  - Thesis: A Satellite Telemetry Investigation of Caspian Seal (*Pusa caspica*) Activity Budgets
 - **BSc Zoology, Upper second-class honours (2:1) – The University of Leeds** (2011-2014) 
   - Thesis: Of Molecules and Morphology: An Extended Review of the Eutherian Radiation 
 
