@@ -13,6 +13,8 @@ navbar:
       href: cv.html
 output:
   html_document:
-    theme: default
+    theme: spacelab
     highlight: textmate
     anchor_sections: FALSE
+    includes:
+      after_body: footer.html
