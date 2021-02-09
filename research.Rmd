@@ -3,5 +3,10 @@ title: "Research"
 ---
 
 ### **Biodiversity Modelling**
+My main area of interest is in global biodiversity modelling, particularly animal pollinator response to anthropogenic activity. As part 
+
 
 ### **Conservation Culturomics**
+I'm also interested in the emerging field of conservation culturomics, or in other words using online data sources (i.e. Twitter, Facebook, Google Trends) to better understand human-nature interactions. In particular I led the development of the Species Awareness Index (SAI), a new index of changing public biodiversity awareness derived from the rate of change in Wikipedia species page views. 
+
+### **Informatics tools in ecology**
