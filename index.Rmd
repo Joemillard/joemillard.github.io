@@ -1,3 +1,20 @@
 ---
-title: "Home"
+title: ""
 ---
+
+<br>
+<br>
+<br>
+<div class = "row">
+<div class = "col-12 col-sm-4">
+![](Pic_3.jpg){#id .class width=90% height=90%}
+</div>
+
+<div class = "col-6 col-sm-8">
+I’m Joe, a data scientist and computational ecologist at UCL interested in the causes and consequences of global pollinator biodiversity change, and the power of online data in quantifying biodiversity awareness. 
+
+I'm currently in the final year of my PhD, based jointly between UCL, the Institute of Zoology, and the RSPB (CASE partnership). My  PhD work has explored a broad spectrum of tools and questions in the context of pollinator biodiversity change, such as the use of text-mining tools to quantify  biases and synthesise research data, the response of global pollinator biodiversity to land-use and climate change, and the potential of Wikipedia data for quantifying change in pollinator biodiversity awareness.
+
+Prior to my PhD I worked at UNEP-WCMC building automated data handling systems for wildlife trade data, and at the journal Scientific Reports in manuscript peer-review and decisions. I also have an MSc (Distinction) in Biodiversity and Conservation and a BSc in Zoology, both from the University of Leeds.
+</div>
+</div>
