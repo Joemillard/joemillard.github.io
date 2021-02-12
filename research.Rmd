@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-<div class = "row">
+<br>
 ### **Global biodiversity modelling**
 My main area of interest is in global biodiversity modelling, particularly animal pollinator response to anthropogenic activity. As part my PhD I combined two datasets to model the global response of local-scale pollinator biodiversity to land-use intensity: 1) the PREDICTS database of global biodiversity records (Hudson *et al* 2017); and 2) a new dataset of likely pollinating species, compiled through a combination of name-entity recognition algorithms and expert consultation (Millard *et al* 2021b). 
 
@@ -16,7 +16,7 @@ I'm also interested in the emerging field of conservation culturomics, or in oth
 Our work shows that awareness of biodiversity is likely marginally increasing, but that change in awareness differs markedly among taxonomic groups and languages. We also show that—over the period July 2015-July 2020—change in awareness is likely not related to either the trade of species or pollination contribution. Biodiversity value likely does relate to awareness, since traded species tend to get a higher number of total views, but our results would suggest that public awareness of the value of biodiversity is not continuing to increase.
 
 <center>
-
+<br>
 ![<font size="2">__The Species Awareness Index (SAI) for 6 taxonomic classes (reptiles, ray-finned fishes, mammals, birds, insects, and amphibians) across 10 Wikipedia languages, for the period July 2015-March 2020. Coloured lines represent the mean of the bootstrapped indices at each monthly each time step, and coloured bands the 2.5th and 97.5th percentiles: reptiles (black), ray-finned fishes (orange), mammals (blue), birds (green), insects (pink), and amphibians (brown). Taxonomic class panels are ordered by the magnitude of overall increase in each taxonomic class, and for language alphabetically (reproduced from Millard *et al*. 2021a)__</font>](Figure_3.png){#id .class width=70% height=70%}
 
 </center>
@@ -26,9 +26,11 @@ Our work shows that awareness of biodiversity is likely marginally increasing, b
 ### **Informatics tools in ecology**
 I also have a much broader interest in informatics tools in ecology, such as text-mining, web-scraping, Shiny app development, AI tools, and satellite telemetry analyses. 
 
-As part of  my PhD I used a set of name-entity recogntion tools (Taxize and CLIFF-CLAVIN) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. More recently I've been collaborating with Tom Johnson, Richard Cornford, Dr Manuella Gonzalez-Suarez, and Dr Robin Freeman to further develop the capabilities of such automated research synthesis in ecology. 
+As part of  my PhD I used a set of name-entity recogntion tools ([Taxize](https://cran.r-project.org/web/packages/taxize/index.html) and [CLIFF-CLAVIN](https://cliff.mediacloud.org/)) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. More recently I've been collaborating with Tom Johnson, Richard Cornford, Dr Manuella Gonzalez-Suarez, and Dr Robin Freeman to further develop the capabilities of such automated research synthesis in ecology. 
 
 I was also involved in building a plant species identifying web app, which would pull images of plants from Flickr (using [photosearcher](https://docs.ropensci.org/photosearcher/articles/photosearcher.html)), predict what plant was in the image (using [PlantNet](https://identify.plantnet.org/)), and then map each image onto geographical space (using [R Shiny](https://shiny.rstudio.com/) and [leaflet](https://leafletjs.com/)).
+
+UNEP-WCMC Shiny
 
 <center>
 
@@ -46,5 +48,4 @@ Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phi
 **Millard, J.W.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The Species Awareness Index (SAI): a Wikipedia-derived conservation culturomics metric for public biodiversity awareness. *Conservation Biology* (in press)
 
 **Millard, J.W.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications* (in revision)
-</div>
 
