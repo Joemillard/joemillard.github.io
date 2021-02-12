@@ -12,11 +12,13 @@ My main area of interest is in global biodiversity modelling, particularly anima
 ### **Conservation culturomics**
 I'm also interested in the emerging field of conservation culturomics, or in other words using online data sources (i.e. Twitter, Facebook, Google Trends) to better understand human-nature interactions. In particular I led the development of the Species Awareness Index (SAI), a new index of changing public biodiversity awareness derived from the rate of change in Wikipedia species page views. 
 
-[The Species Awareness Index for 6 taxonomic classes on 10 Wikipedia languages (Millard *et al*. 2021)](Figure_3.png){#id .class width=90% height=90%}
+<center>![The Species Awareness Index for 6 taxonomic classes on 10 Wikipedia languages, calculated from the random adjusted rate of change for species page views on Wikipedia (Millard *et al*. 2021)](Figure_3.png){#id .class width=60% height=60%}</center>
 
 ### **Informatics tools in ecology**
-</div>
 
-[The geographic distribution of the  pollination literature, according to the frequency of animal species automatically extracted from pollination related abstracts (Millard *et al*. 2020)](abstract_geoparse-major-minor_ratio_14.png){#id .class width=90% height=90%}
+
+<center>![The geographic distribution of the  pollination literature, according to the frequency of animal species automatically extracted from pollination related abstracts (Millard *et al*. 2020)](abstract_geoparse-major-minor_ratio_14.png){#id .class width=60% height=60% fig.align="center"}</center>
+
+</div>
 
 
