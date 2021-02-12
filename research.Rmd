@@ -19,7 +19,7 @@ I'm also interested in the emerging field of conservation culturomics, or in oth
 ### **Informatics tools in ecology**
 <br>
 <center>
-![The geographic distribution of the  pollination literature, according to the frequency of animal species automatically extracted from pollination related abstracts (Millard *et al*. 2020)](abstract_geoparse-major-minor_ratio_14.png){#id .class width=60% height=60% fig.align="center"}
+![The geographic distribution of the  pollination literature, according to the frequency of animal species automatically extracted from pollination related abstracts (Millard *et al*. 2020)](abstract_geoparse-major-minor_ratio_14.png){#id .class width=60% height=60%}
 </center>
 <br>
 </div>
