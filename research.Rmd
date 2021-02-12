@@ -14,7 +14,7 @@ I'm also interested in the emerging field of conservation culturomics, or in oth
 
 <center>
 
-![**The Species Awareness Index for 6 taxonomic classes on 10 Wikipedia languages, calculated from the random adjusted rate of change for species page views on Wikipedia (Millard *et al*. 2021)**](Figure_3.png){#id .class width=70% height=70%}
+![**The Species Awareness Index (SAI) for 6 taxonomic classes (reptiles, ray-finned fishes, mammals, birds, insects, and amphibians) across 10 Wikipedia languages, for the period July 2015-March 2020. Coloured lines represent the mean of the bootstrapped indices at each monthly each time step, and coloured bands the 2.5th and 97.5th percentiles: reptiles (black), ray-finned fishes (orange), mammals (blue), birds (green), insects (pink), and amphibians (brown). Taxonomic class panels are ordered by the magnitude of overall increase in each taxonomic class, and for language alphabetically. (reproduced from Millard *et al*. 2021)**](Figure_3.png){#id .class width=70% height=70%}
 
 </center>
 
@@ -22,10 +22,15 @@ I'm also interested in the emerging field of conservation culturomics, or in oth
 ### **Informatics tools in ecology**
 <center>
 
-![__The geographic distribution of the  pollination literature, according to the frequency of animal species automatically extracted from pollination related abstracts (Millard *et al*. 2020)__](abstract_geoparse-major-minor_ratio_14.png){#id .class width=70% height=70%}
+![__Global study counts for animal pollinator related studies, aggregated at country level. Study counts were derived from the number of abstracts with their ‘major’ focus in each country. All oceanic and otherwise obviously incorrect mentions, as well as mentions that could only be resolved to a unit larger than a country, were removed. Study counts were log10‐transformed. Partially transparent blue points (‘minor’ mentions) represent the number of unique abstracts in which CLIFF‐CLAVIN resolved that location. ‘minor’ mentions include all specific geographical locations geoparsed by CLIFF‐CLAVIN, with the exception of continents, oceans, and incorrectly geoparsed locations (reproduced from Millard *et al*. 2020)__](abstract_geoparse-major-minor_ratio_14.png){#id .class width=70% height=70%}
 
 </center>
 <br>
+
+**References**
+Millard, J.W., Freeman, R. and Newbold, T., 2020. Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*, 43(1), pp.44-59.
+
+Millard, J.W., Gregory, R.D., Jones, K. and Freeman, R., 2020. The Species Awareness Index (SAI): a Wikipedia-derived conservation culturomics metric for public biodiversity awareness. *Conservation Biology*.
 </div>
 
 
