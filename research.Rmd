@@ -16,8 +16,7 @@ I'm also interested in the emerging field of conservation culturomics, or in oth
 Our work shows that awareness of biodiversity is likely marginally increasing, but that change in awareness differs markedly among taxonomic groups and languages. We also show that—over the period July 2015-July 2020—change in awareness is likely not related to either the trade of species or pollination contribution. Biodiversity value likely does relate to awareness, since traded species tend to get a higher number of total views, but our results would suggest that public awareness of the value of biodiversity is not continuing to increase.
 
 <center>
-<br>
-<br>
+
 ![<font size="2">__The Species Awareness Index (SAI) for 6 taxonomic classes (reptiles, ray-finned fishes, mammals, birds, insects, and amphibians) across 10 Wikipedia languages, for the period July 2015-March 2020. Coloured lines represent the mean of the bootstrapped indices at each monthly each time step, and coloured bands the 2.5th and 97.5th percentiles: reptiles (black), ray-finned fishes (orange), mammals (blue), birds (green), insects (pink), and amphibians (brown). Taxonomic class panels are ordered by the magnitude of overall increase in each taxonomic class, and for language alphabetically (reproduced from Millard *et al*. 2021a)__</font>](Figure_3.png){#id .class width=70% height=70%}
 
 </center>
@@ -27,16 +26,17 @@ Our work shows that awareness of biodiversity is likely marginally increasing, b
 ### **Informatics tools in ecology**
 I also have a much broader interest in informatics tools in ecology, such as text-mining, web-scraping, Shiny app development, AI tools, and satellite telemetry analyses. 
 
-As part of  my PhD I used a set of name-entity recogntion tools (Taxize and CLIFF-CLAVIN) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. More recently I've been collaborating with Tom Johnson, Richard Cornford, Dr Manuella Gonzalez-Suarez, and Dr Robin Freeman to further develop the capabilities of automated research synthesis in ecology. 
+As part of  my PhD I used a set of name-entity recogntion tools (Taxize and CLIFF-CLAVIN) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. More recently I've been collaborating with Tom Johnson, Richard Cornford, Dr Manuella Gonzalez-Suarez, and Dr Robin Freeman to further develop the capabilities of such automated research synthesis in ecology. 
 
 I was also involved in building a plant species identifying web app, which would pull images of plants from Flickr (using [photosearcher](https://docs.ropensci.org/photosearcher/articles/photosearcher.html)), predict what plant was in the image (using [PlantNet](https://identify.plantnet.org/)), and then map each image onto geographical space (using [R Shiny](https://shiny.rstudio.com/) and [leaflet](https://leafletjs.com/)).
 
 <center>
 
-![<font size="2">__Global study counts for animal pollinator related studies, aggregated at country level. Study counts were derived from the number of abstracts with their ‘major’ focus in each country. All oceanic and otherwise obviously incorrect mentions, as well as mentions that could only be resolved to a unit larger than a country, were removed. Study counts were log10‐transformed. Partially transparent blue points (‘minor’ mentions) represent the number of unique abstracts in which CLIFF‐CLAVIN resolved that location. ‘minor’ mentions include all specific geographical locations geoparsed by CLIFF‐CLAVIN, with the exception of continents, oceans, and incorrectly geoparsed locations (reproduced from Millard *et al*. 2020)__</font>](abstract_geoparse-major-minor_ratio_14.png){#id .class width=70% height=70%}
+![<font size="2">__Distribution of the animal pollinator literature broken down into taxonomic groups, for the top 12 genera and top 5 orders. Taxonomic orders are indicated here by fill colour, consistent across top and bottom panels: Hymenoptera (blue), Lepidoptera (pink), Diptera (orange), Apodiformes (green) and Chiroptera (grey). Point size represents the frequency of unique abstract‐genera‐location combinations. ‘Other genera’ here consists of 1001 genera across the Hymentopera, Lepidoptera, Diptera, Apodiformes and Chiroptera. Given the inaccuracies inherent in CLIFF‐CLAVIN, and the problem in assuming all taxonomic names are associated with all locations in an abstract, these results should be interpreted with caution (reproduced from Millard *et al*. 2020)__</font>](abstract_geoparse-taxonomic-group_23d.png){#id .class width=70% height=70%}
 
 </center>
-<br>
+
+***
 
 ##### **References**
 Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phillips, H.R., Alhusseini, T.I., Bedford, F.E., Bennett, D.J. and Booth, H., (2017). The database of the PREDICTS (projecting responses of ecological diversity in changing terrestrial systems) project. *Ecology and evolution*, 7(1), pp.145-188. DOI: https://doi.org/10.1002/ece3.2579
