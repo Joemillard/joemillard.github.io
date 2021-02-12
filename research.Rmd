@@ -2,7 +2,6 @@
 title: "Research"
 ---
 
-<br>
 <div class = "row">
 ### **Global biodiversity modelling**
 My main area of interest is in global biodiversity modelling, particularly animal pollinator response to anthropogenic activity. As part my PhD I combined two datasets to model the global response of local-scale pollinator biodiversity to land-use intensity: 1) the PREDICTS database of global biodiversity records (Hudson *et al* 2017); and 2) a new dataset of likely pollinating species, compiled through a combination of name-entity recognition algorithms and expert consultation (Millard *et al* 2021b). 
@@ -13,10 +12,10 @@ Our work shows that low levels of intensity can benefit pollinators, but on anth
 I'm also interested in the emerging field of conservation culturomics, or in other words using online data sources (i.e. Twitter, Facebook, Google Trends) to better understand human-nature interactions. In particular I led the development of the Species Awareness Index (SAI), a new index of changing public biodiversity awareness derived from the rate of change in Wikipedia page views (Millard *et al* 2021a). We calculated this index for 41,197 IUCN species on Wikipedia, including over 2 billion views from the top 10 languages on Wikipedia (by active user). 
 
 Our work shows that awareness of biodiversity is likely marginally increasing, but that change in awareness differs markedly among taxonomic groups and languages. We also show that—over the period July 2015-July 2020—change in awareness is likely not related to either the trade of species or pollination contribution. Biodiversity value likely does relate to awareness, since traded species tend to get a higher number of total views, but our results would suggest that public awareness of the value of biodiversity is not continuing to increase.
-<br>
-<br>
-<center>
 
+<center>
+<br>
+<br>
 ![<font size="2">__The Species Awareness Index (SAI) for 6 taxonomic classes (reptiles, ray-finned fishes, mammals, birds, insects, and amphibians) across 10 Wikipedia languages, for the period July 2015-March 2020. Coloured lines represent the mean of the bootstrapped indices at each monthly each time step, and coloured bands the 2.5th and 97.5th percentiles: reptiles (black), ray-finned fishes (orange), mammals (blue), birds (green), insects (pink), and amphibians (brown). Taxonomic class panels are ordered by the magnitude of overall increase in each taxonomic class, and for language alphabetically (reproduced from Millard *et al*. 2021a)__</font>](Figure_3.png){#id .class width=70% height=70%}
 
 </center>
@@ -40,10 +39,10 @@ I was also involved in building a plant species identifying web app, which would
 <br>
 Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phillips, H.R., Alhusseini, T.I., Bedford, F.E., Bennett, D.J. and Booth, H., (2017). The database of the PREDICTS (projecting responses of ecological diversity in changing terrestrial systems) project. *Ecology and evolution*, 7(1), pp.145-188. DOI: https://doi.org/10.1002/ece3.2579
 
-Millard, J.W., Freeman, R. and Newbold, T., (2020). Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*, 43(1), pp.44-59. DOI: https://doi.org/10.1111/ecog.04532
+**Millard, J.W.**, Freeman, R. and Newbold, T., (2020). Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*, 43(1), pp.44-59. DOI: https://doi.org/10.1111/ecog.04532
 
-Millard, J.W., Gregory, R.D., Jones, K. and Freeman, R., (2021a). The Species Awareness Index (SAI): a Wikipedia-derived conservation culturomics metric for public biodiversity awareness. *Conservation Biology* (in press)
+**Millard, J.W.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The Species Awareness Index (SAI): a Wikipedia-derived conservation culturomics metric for public biodiversity awareness. *Conservation Biology* (in press)
 
-Millard, J.W., Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications* (in revision)
+**Millard, J.W.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications* (in revision)
 </div>
 
