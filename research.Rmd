@@ -14,7 +14,7 @@ I'm also interested in the emerging field of conservation culturomics, or in oth
 <br>
 <center>
 
-![The Species Awareness Index for 6 taxonomic classes on 10 Wikipedia languages, calculated from the random adjusted rate of change for species page views on Wikipedia (Millard *et al*. 2021)](Figure_3.png){#id .class width=70% height=70%}
+![The Species Awareness Index for 6 taxonomic classes on 10 Wikipedia languages, calculated from the random adjusted rate of change for species page views on Wikipedia (Millard *et al*. 2021)](Figure_3.png)
 
 </center>
 <br>
