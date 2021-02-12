@@ -3,7 +3,6 @@ title: "About Joe"
 ---
 
 <br>
-<br>
 <div class = "row">
 <div class = "col-12 col-sm-4">
 ![](Pic_3.jpg){#id .class width=90% height=90%}
