@@ -8,6 +8,8 @@ My main area of interest is in global biodiversity modelling, particularly anima
 
 Our work shows that low levels of intensity can benefit pollinators, but on anthropogenic land increasing intensity tends to decrease richness and abundance. Our research also shows that pollinator response to land-use intensity differs markedkly among taxonomics groups and geographical zone, with a strongly positive response to increasing fertiliser application rate for flies, and a much stronger response to intensity in tropical relative to non-tropical cropland.
 
+***
+
 ### **Conservation culturomics**
 I'm also interested in the emerging field of conservation culturomics, or in other words using online data sources (i.e. Twitter, Facebook, Google Trends) to better understand human-nature interactions. In particular I led the development of the Species Awareness Index (SAI), a new index of changing public biodiversity awareness derived from the rate of change in Wikipedia page views (Millard *et al* 2021a). We calculated this index for 41,197 IUCN species on Wikipedia, including over 2 billion views from the top 10 languages on Wikipedia (by active user). 
 
@@ -20,13 +22,14 @@ Our work shows that awareness of biodiversity is likely marginally increasing, b
 
 </center>
 
+***
 
 ### **Informatics tools in ecology**
 I also have a much broader interest in informatics tools in ecology, such as text-mining, web-scraping, Shiny app development, AI tools, and satellite telemetry analyses. 
 
-As part of  my PhD I used a set of name-entity recogntion tools (Taxize and CLIFF-CLAVIN) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions.
+As part of  my PhD I used a set of name-entity recogntion tools (Taxize and CLIFF-CLAVIN) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. More recently I've been collaborating with Tom Johnson, Richard Cornford, Dr Manuella Gonzalez-Suarez, and Dr Robin Freeman to further develop the capabilities of automated research synthesis in ecology. 
 
-I was also involved in building a plant species identifying web app, which would pull images of plants from Flickr (using [photosearcher](https://docs.ropensci.org/photosearcher/articles/photosearcher.html)), predict what plant was in the image (using [PlantNet](https://identify.plantnet.org/)), and then map each image onto geographical space (using [R Shiny](https://shiny.rstudio.com/) and [leaflet](https://leafletjs.com/)). And more recently I've been collaborating with Tom Johnson, Richard Cornford, Dr Manuella Gonzalez-Suarez, and Dr Robin Freeman to further develop the capabilities of automated research synthesis in ecology. 
+I was also involved in building a plant species identifying web app, which would pull images of plants from Flickr (using [photosearcher](https://docs.ropensci.org/photosearcher/articles/photosearcher.html)), predict what plant was in the image (using [PlantNet](https://identify.plantnet.org/)), and then map each image onto geographical space (using [R Shiny](https://shiny.rstudio.com/) and [leaflet](https://leafletjs.com/)).
 
 <center>
 
@@ -35,8 +38,7 @@ I was also involved in building a plant species identifying web app, which would
 </center>
 <br>
 
-**References**
-<br>
+##### **References**
 Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phillips, H.R., Alhusseini, T.I., Bedford, F.E., Bennett, D.J. and Booth, H., (2017). The database of the PREDICTS (projecting responses of ecological diversity in changing terrestrial systems) project. *Ecology and evolution*, 7(1), pp.145-188. DOI: https://doi.org/10.1002/ece3.2579
 
 **Millard, J.W.**, Freeman, R. and Newbold, T., (2020). Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*, 43(1), pp.44-59. DOI: https://doi.org/10.1111/ecog.04532
