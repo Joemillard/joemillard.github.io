@@ -1,6 +1,8 @@
 ---
-title: "About Joe"
+title: "About"
 ---
+
+***
 
 <br>
 <div class = "row">
