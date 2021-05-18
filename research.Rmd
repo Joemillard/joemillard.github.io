@@ -9,6 +9,13 @@ My main area of interest is in global biodiversity modelling, particularly anima
 
 Our work shows that low levels of intensity can benefit pollinators, but on anthropogenic land increasing intensity tends to decrease richness and abundance. Our research also shows that pollinator response to land-use intensity differs markedly among taxonomics groups and geographical zone, with a strongly positive response to increasing fertiliser application rate for flies, and a much stronger response to intensity in tropical relative to non-tropical cropland.
 
+<center>
+
+![<font size="2">__A) The global distribution of PREDICTS sites containing likely pollinating species, for which both the land-use type and intensity of that site are known (no. sites = 8639). Colours represent land-use type: orange (primary vegetation), green (mature secondary vegetation), yellow (intermediate secondary vegetation), blue (young secondary vegetation), dark orange (plantation forest), pink (pasture), grey (cropland), and black (urban). B) The taxonomic distribution of likely pollinating species in PREDICTS for all sites (no. species = 4502). The number of species indicated here will be an underestimate of the number of pollinating species in PREDICTS, since this figure only includes records for which there is a full scientific binomial in the database. Some biodiversity records in the PREDICTS database are recorded above the level of species. C) The source of information (direct evidence at the genus level or extrapolated to groups based on information for groups at higher taxonomic levels) for pollinators in PREDICTS, broken down by taxonomic class. In both B and C, there are four taxonomic classes: Insecta (black), Aves (purple), Mammalia (red), and Reptilia (yellow) (reproduced from Millard *et al*. 2021b)__</font>](Figure_1.png){#id .class width=70% height=70%}
+
+</center>
+
+
 ***
 
 ### **Conservation culturomics**

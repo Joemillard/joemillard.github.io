@@ -13,12 +13,22 @@
 
 <title>Research</title>
 
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -33,11 +43,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -50,32 +55,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 
@@ -86,10 +65,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -106,40 +81,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 52px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h2 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h3 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h4 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h5 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
-.section h6 {
-  padding-top: 57px;
-  margin-top: -57px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -167,7 +115,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -179,7 +127,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -190,10 +138,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -205,7 +166,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -298,7 +258,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -312,6 +272,12 @@ $(document).ready(function () {
 <h3><strong>Global biodiversity modelling</strong></h3>
 <p>My main area of interest is in global biodiversity modelling, particularly animal pollinator response to anthropogenic activity. As part my PhD I combined two datasets to model the global response of local-scale pollinator biodiversity to land-use intensity: 1) the PREDICTS database of global biodiversity records (Hudson <em>et al</em> 2017); and 2) a new dataset of likely pollinating species, compiled through a combination of name-entity recognition algorithms and expert consultation (Millard <em>et al</em> 2021b).</p>
 <p>Our work shows that low levels of intensity can benefit pollinators, but on anthropogenic land increasing intensity tends to decrease richness and abundance. Our research also shows that pollinator response to land-use intensity differs markedly among taxonomics groups and geographical zone, with a strongly positive response to increasing fertiliser application rate for flies, and a much stronger response to intensity in tropical relative to non-tropical cropland.</p>
+<center>
+<div class="figure">
+<img src="Figure_1.png" id="id" class="class" style="width:70.0%;height:70.0%" alt="" />
+<p class="caption"><font size="2"><strong>A) The global distribution of PREDICTS sites containing likely pollinating species, for which both the land-use type and intensity of that site are known (no. sites = 8639). Colours represent land-use type: orange (primary vegetation), green (mature secondary vegetation), yellow (intermediate secondary vegetation), blue (young secondary vegetation), dark orange (plantation forest), pink (pasture), grey (cropland), and black (urban). B) The taxonomic distribution of likely pollinating species in PREDICTS for all sites (no. species = 4502). The number of species indicated here will be an underestimate of the number of pollinating species in PREDICTS, since this figure only includes records for which there is a full scientific binomial in the database. Some biodiversity records in the PREDICTS database are recorded above the level of species. C) The source of information (direct evidence at the genus level or extrapolated to groups based on information for groups at higher taxonomic levels) for pollinators in PREDICTS, broken down by taxonomic class. In both B and C, there are four taxonomic classes: Insecta (black), Aves (purple), Mammalia (red), and Reptilia (yellow) (reproduced from Millard <em>et al</em>. 2021b)</strong></font></p>
+</div>
+</center>
 <hr />
 </div>
 <div id="conservation-culturomics" class="section level3">
@@ -320,7 +286,7 @@ $(document).ready(function () {
 <p>Our work shows that awareness of biodiversity is likely marginally increasing, but that change in awareness differs markedly among taxonomic groups and languages. We also show that—over the period July 2015-July 2020—change in awareness is likely not related to either the trade of species or pollination contribution. Biodiversity value likely does relate to awareness, since traded species tend to get a higher number of total views, but our results would suggest that public awareness of the value of biodiversity is not continuing to increase.</p>
 <center>
 <div class="figure">
-<img src="Figure_3.png" alt="The Species Awareness Index (SAI) for 6 taxonomic classes (reptiles, ray-finned fishes, mammals, birds, insects, and amphibians) across 10 Wikipedia languages, for the period July 2015-March 2020. Coloured lines represent the mean of the bootstrapped indices at each monthly each time step, and coloured bands the 2.5th and 97.5th percentiles: reptiles (black), ray-finned fishes (orange), mammals (blue), birds (green), insects (pink), and amphibians (brown). Taxonomic class panels are ordered by the magnitude of overall increase in each taxonomic class, and for language alphabetically (reproduced from Millard et al. 2021a)" id="id" class="class" style="width:70.0%;height:70.0%" />
+<img src="Figure_3.png" id="id" class="class" style="width:70.0%;height:70.0%" alt="" />
 <p class="caption"><font size="2"><strong>The Species Awareness Index (SAI) for 6 taxonomic classes (reptiles, ray-finned fishes, mammals, birds, insects, and amphibians) across 10 Wikipedia languages, for the period July 2015-March 2020. Coloured lines represent the mean of the bootstrapped indices at each monthly each time step, and coloured bands the 2.5th and 97.5th percentiles: reptiles (black), ray-finned fishes (orange), mammals (blue), birds (green), insects (pink), and amphibians (brown). Taxonomic class panels are ordered by the magnitude of overall increase in each taxonomic class, and for language alphabetically (reproduced from Millard <em>et al</em>. 2021a)</strong></font></p>
 </div>
 </center>
@@ -333,7 +299,7 @@ $(document).ready(function () {
 <p>I was also involved in building an AI app for identifying plant species from photos, the result of which is now published as a freely available <a href="https://zenodo.org/record/3497314#.YHgYlK9KhPY">data set</a>. The app would pull images of plants from Flickr (using <a href="https://docs.ropensci.org/photosearcher/articles/photosearcher.html">photosearcher</a>), predict what plant was in the image (using <a href="https://identify.plantnet.org/">PlantNet</a>), and then map each image onto geographical space (using <a href="https://shiny.rstudio.com/">R Shiny</a> and <a href="https://leafletjs.com/">leaflet</a>).</p>
 <center>
 <div class="figure">
-<img src="abstract_geoparse-taxonomic-group_23d.png" alt="Distribution of the animal pollinator literature broken down into taxonomic groups, for the top 12 genera and top 5 orders. Taxonomic orders are indicated here by fill colour, consistent across top and bottom panels: Hymenoptera (blue), Lepidoptera (pink), Diptera (orange), Apodiformes (green) and Chiroptera (grey). Point size represents the frequency of unique abstract‐genera‐location combinations. ‘Other genera’ here consists of 1001 genera across the Hymentopera, Lepidoptera, Diptera, Apodiformes and Chiroptera. Given the inaccuracies inherent in CLIFF‐CLAVIN, and the problem in assuming all taxonomic names are associated with all locations in an abstract, these results should be interpreted with caution (reproduced from Millard et al. 2020)" id="id" class="class" style="width:70.0%;height:70.0%" />
+<img src="abstract_geoparse-taxonomic-group_23d.png" id="id" class="class" style="width:70.0%;height:70.0%" alt="" />
 <p class="caption"><font size="2"><strong>Distribution of the animal pollinator literature broken down into taxonomic groups, for the top 12 genera and top 5 orders. Taxonomic orders are indicated here by fill colour, consistent across top and bottom panels: Hymenoptera (blue), Lepidoptera (pink), Diptera (orange), Apodiformes (green) and Chiroptera (grey). Point size represents the frequency of unique abstract‐genera‐location combinations. ‘Other genera’ here consists of 1001 genera across the Hymentopera, Lepidoptera, Diptera, Apodiformes and Chiroptera. Given the inaccuracies inherent in CLIFF‐CLAVIN, and the problem in assuming all taxonomic names are associated with all locations in an abstract, these results should be interpreted with caution (reproduced from Millard <em>et al</em>. 2020)</strong></font></p>
 </div>
 </center>
@@ -387,7 +353,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
