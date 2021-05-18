@@ -53,5 +53,5 @@ Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phi
 
 **Millard, J.W.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The species awareness index as a conservation culturomics metric for public biodiversity awareness. *Conservation Biology*, 35(2), pp.472-482. DOI: https://doi.org/10.1111/cobi.13701. Selected to appear in an 'Advancing Conservation Culturomics' special section. 
 
-**Millard, J.W.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications* (in press)
+**Millard, J.W.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications*, 12(2902). DOI: https://doi.org/10.1038/s41467-021-23228-3
 
