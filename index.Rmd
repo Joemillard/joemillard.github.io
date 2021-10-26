@@ -7,7 +7,7 @@ title: "About"
 <br>
 <div class = "row">
 <div class = "col-12 col-sm-4">
-![](Pic_3.jpg){#id .class width=90% height=90%}
+![](Pic_3.jpeg){#id .class width=90% height=90%}
 </div>
 
 <div class = "col-6 col-sm-8">
