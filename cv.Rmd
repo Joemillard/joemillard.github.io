@@ -5,7 +5,7 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ***
 
 ### **Education**
-- **PhD Computational Ecology – UCL London NERC DTP** (2017-present)
+- **PhD Computational Ecology – UCL London NERC DTP** (2017-2021)
   - Thesis: Pollinator biodiversity change in the Anthropocene  
 - **MSc Biodiversity and Conservation, Distinction (1st) – The University of Leeds** (2014-2015)
   - Thesis: A Satellite Telemetry Investigation of Caspian Seal (*Pusa caspica*) Activity Budgets
@@ -15,6 +15,8 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ***
 
 ### **Employment**
+- **Postdoctoral researcher, the Natural History Museum in London** (2022-present)
+- **Postdoctoral researcher, the Leverhulme Centre for Demographic Science** (2021-2022)
 - **UCL Postgraduate teaching assistant** (2019-2021)
 - **Programme Assistant – UNEP-WCMC** (September 2016-June 2017) 
 - **Publishing Assistant – Nature Publishing Group** (November 2015-September 2016) 
@@ -23,6 +25,7 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ***
 
 ### **Publications**
+- Cornford, R., **Millard, J.**, González‐Suárez, M., Freeman, R. and Johnson, T.F., (2022) Automated synthesis of biodiversity knowledge requires better tools and standardised research output. *Ecography*, DOI: https://doi.org/10.1111/ecog.06068
 - **Millard, J.**, Freeman, R., Newbold, T., 2020. Text-analysis reveals taxonomic and geographic disparities in animal pollination literature. Ecography, 43(1), pp. 44-59. https://doi.org/10.1111/ecog.04532  
 - **Millard, J.**, Gregory, R., Jones, K., Freeman, R, 2020. The species awareness index as a conservation culturomics metric for public biodiversity awareness. Conservation Biology, 35(2), pp.472-482. https://doi.org/10.1101/2020.08.17.254177. (selected to appear in an ‘Advancing Conservation Culturomics’ special section).  
 - **Millard, J.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R., Adedoja, O., Gavini, S., Kioko, E., Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., Global effects of land-use intensity on local pollinator biodiversity. Nature Communications (in press). 
@@ -32,6 +35,12 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ***
 
 ### **Talks**
+- **IOP Environmental Research 2021** – Worldwide vulnerability of local pollinator abundance and crop
+pollination to land-use and climate change
+- **BES Ecology Across Borders 2021** – Worldwide vulnerability of local pollinator abundance and crop
+pollination to land-use and climate change
+- **University of Oxford seminar 2021** – Pollinators, culturomics, and chronotype: a summary of my
+background and ideas for future research
 - **BES Festival of Ecology 2020** – The Species Awareness Index: a Wikipedia derived conservation culturomics metric for public biodiversity awareness
 - **SCAPE (Scandinavian Association for Pollination Ecology) 2020** – Global effects of land-use intensity on local scale pollinator biodiversity
 - **Linnaean Student Conference 2019** – The importance and diversity of animal pollination (https://www.youtube.com/watch?v=qn0sCxJiTdI&t=5854s)
