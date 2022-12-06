@@ -25,12 +25,29 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ***
 
 ### **Publications**
-- Cornford, R., **Millard, J.**, González‐Suárez, M., Freeman, R. and Johnson, T.F., (2022) Automated synthesis of biodiversity knowledge requires better tools and standardised research output. *Ecography*, DOI: https://doi.org/10.1111/ecog.06068
-- **Millard, J.**, Freeman, R., Newbold, T., 2020. Text-analysis reveals taxonomic and geographic disparities in animal pollination literature. Ecography, 43(1), pp. 44-59. https://doi.org/10.1111/ecog.04532  
-- **Millard, J.**, Gregory, R., Jones, K., Freeman, R, 2020. The species awareness index as a conservation culturomics metric for public biodiversity awareness. Conservation Biology, 35(2), pp.472-482. https://doi.org/10.1101/2020.08.17.254177. (selected to appear in an ‘Advancing Conservation Culturomics’ special section).  
-- **Millard, J.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R., Adedoja, O., Gavini, S., Kioko, E., Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., Global effects of land-use intensity on local pollinator biodiversity. Nature Communications (in press). 
-- Newbold, T., Adams, G.L., Robles, G.A., Boakes, E.H., Ferreira, G.B., Chapman, A.S., Etard, A., Gibb, R., **Millard, J.**, Outhwaite, C.L. and Williams, J.J., 2019. Climate and land-use change homogenise terrestrial biodiversity, with consequences for ecosystem functioning and human well-being. Emerging Topics in Life Sciences, 3(2), pp.207-219.  
+
+##### **Peer reviewed**
+- Cornford, R., **Millard, J.**, González‐Suárez, M., Freeman, R. and Johnson, T.F (2022) Automated synthesis of biodiversity knowledge requires better tools and standardised research output. *Ecography*, DOI: https://doi.org/10.1111/ecog.06068
+- **Millard, J.**, Freeman, R., Newbold, T., 2020. Text-analysis reveals taxonomic and geographic disparities in animal pollination literature. Ecography, 43(1), pp. 44-59. DOI: https://doi.org/10.1111/ecog.04532  
+- **Millard, J.**, Gregory, R., Jones, K., Freeman, R, 2020. The species awareness index as a conservation culturomics metric for public biodiversity awareness. Conservation Biology, 35(2), pp.472-482. DOI: https://doi.org/10.1101/2020.08.17.254177. (selected to appear in an ‘Advancing Conservation Culturomics’ special section).  
+- **Millard, J.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R., Adedoja, O., Gavini, S., Kioko, E., Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., Global effects of land-use intensity on local pollinator biodiversity. Nature Communications DOI: https://doi.org/10.1038/s41467-021-23228-3
+- Newbold, T., Adams, G.L., Robles, G.A., Boakes, E.H., Ferreira, G.B., Chapman, A.S., Etard, A., Gibb, R., **Millard, J.**, Outhwaite, C.L. and Williams, J.J., 2019. Climate and land-use change homogenise terrestrial biodiversity, with consequences for ecosystem functioning and human well-being. Emerging Topics in Life Sciences, 3(2), pp.207-219. DOI: https://doi.org/10.1042/ETLS20180135
+
+##### **In review**
+- **Millard, J.**, Akimova, E., Ding, X., Leasure, D., Zhao, B., Mills, M., Stringent COVID-19 government
+restrictions were associated with a marked increase in Twitter activity in Europe
+- Johnson, T. F., Cornford, R., Dove, S., Freeman, R., **Millard, J.** Realising the potential of real-time online
+monitoring for conservation culturomics. DOI: https://doi.org/10.32942/osf.io/r3ysc
+- Williams, J., Newbold, T., **Millard, J.**, Groner, V., Pearson, R., Important pollinators respond less negatively to anthropogenic land use than other animals
+
+##### **In prep**
+- **Millard, J.**, Outhwaite, O., Dicks, L., Ollerton, J., Ceausu, S., Newbold, T., Key tropical crops at risk from
+pollinator biodiversity loss due to climate change and land use
+- Skinner, S., Purvis, A., Cooke, R., Raw, C., K, Junghyuk., **Millard, J.** Dynameta: a dynamic platform for ecological meta-analyses in R Shiny 
+
+##### **Data**
 - August, Tom A, Affouard, Antoine, Fox, Nathan, Marlowe, Celia, **Millard, J.**, Sanderson, Roy, & Bonnet, Pierre. (2019). AI validated plant observations from social media: Flickr images from central London 2011-2019 (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3497314  
+- **Millard, J.**, Newbold, T. (2022). A global dataset of likely animal pollinators (v1.1). Zenodo. https://doi.org/10.5281/zenodo.7385950
 
 ***
 
