@@ -46,7 +46,7 @@ pollinator biodiversity loss due to climate change and land use
 - Skinner, S., Purvis, A., Cooke, R., Raw, C., K, Junghyuk., **Millard, J.** Dynameta: a dynamic platform for ecological meta-analyses in R Shiny 
 
 ##### **Data**
-- August, Tom A, Affouard, Antoine, Fox, Nathan, Marlowe, Celia, **Millard, J.**, Sanderson, Roy, & Bonnet, Pierre. (2019). AI validated plant observations from social media: Flickr images from central London 2011-2019 (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3497314  
+- August, T., Affouard, A., Fox, N., Marlowe, C. **Millard, J.**, Sanderson, Roy, & Bonnet, Pierre. (2019). AI validated plant observations from social media: Flickr images from central London 2011-2019 (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3497314  
 - **Millard, J.**, Newbold, T. (2022). A global dataset of likely animal pollinators (v1.1). Zenodo. https://doi.org/10.5281/zenodo.7385950
 
 ***
