@@ -275,35 +275,37 @@ $(document).ready(function () {
 body {
 text-align: justify
 }
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
 </style>
 <hr />
 <div id="global-biodiversity-modelling" class="section level3">
 <h3><strong>Global biodiversity modelling</strong></h3>
 <p>My main area of interest is in global biodiversity modelling, particularly animal pollinator response to anthropogenic activity. As part my PhD I combined two datasets to model the global response of local-scale pollinator biodiversity to land-use intensity: 1) the PREDICTS database of global biodiversity records (Hudson <em>et al</em> 2017); and 2) a new dataset of likely pollinating species, compiled through a combination of name-entity recognition algorithms and expert consultation (Millard <em>et al</em> 2021b).</p>
 <p>Our work shows that low levels of intensity can benefit pollinators, but on anthropogenic land increasing intensity tends to decrease richness and abundance. Our research also shows that pollinator response to land-use intensity differs markedly among taxonomics groups and geographical zone, with a strongly positive response to increasing fertiliser application rate for flies, and a much stronger response to intensity in tropical relative to non-tropical cropland.</p>
+<center>
 <div class="figure">
 <img src="Figure_1.png" id="id" class="class" style="width:70.0%;height:70.0%" alt="" />
 <p class="caption"><font size="2"><strong>A) The global distribution of PREDICTS sites containing likely pollinating species, for which both the land-use type and intensity of that site are known (no. sites = 8639). Colours represent land-use type: orange (primary vegetation), green (mature secondary vegetation), yellow (intermediate secondary vegetation), blue (young secondary vegetation), dark orange (plantation forest), pink (pasture), grey (cropland), and black (urban). B) The taxonomic distribution of likely pollinating species in PREDICTS for all sites (no. species = 4502). The number of species indicated here will be an underestimate of the number of pollinating species in PREDICTS, since this figure only includes records for which there is a full scientific binomial in the database. Some biodiversity records in the PREDICTS database are recorded above the level of species. C) The source of information (direct evidence at the genus level or extrapolated to groups based on information for groups at higher taxonomic levels) for pollinators in PREDICTS, broken down by taxonomic class. In both B and C, there are four taxonomic classes: Insecta (black), Aves (purple), Mammalia (red), and Reptilia (yellow) (reproduced from Millard <em>et al</em>. 2021b)</strong></font></p>
 </div>
+</center>
 <hr />
 </div>
 <div id="conservation-culturomics" class="section level3">
 <h3><strong>Conservation culturomics</strong></h3>
 <p>I’m also interested in the emerging field of conservation culturomics, or in other words using online data sources (i.e. Twitter, Facebook, Google Trends) to better understand human-nature interactions. In particular with colleagues at the Institute of Zoology, RSPB, and UCL I led the development of the Species Awareness Index (SAI), a new index of changing public biodiversity awareness derived from the rate of change in Wikipedia page views (Millard <em>et al</em> 2021a). We calculated this index for 41,197 IUCN species on Wikipedia, including over 2 billion views from the top 10 languages on Wikipedia (by active user).</p>
 <p>Our work shows that awareness of biodiversity is likely marginally increasing, but that change in awareness differs markedly among taxonomic groups and languages. We also show that—over the period July 2015-July 2020—change in awareness is likely not related to either the trade of species or pollination contribution. Biodiversity value likely does relate to awareness, since traded species tend to get a higher number of total views, but our results would suggest that public awareness of the value of biodiversity is not continuing to increase.</p>
+<center>
 <div class="figure">
 <img src="Figure_3.png" id="id" class="class" style="width:70.0%;height:70.0%" alt="" />
 <p class="caption"><font size="2"><strong>The Species Awareness Index (SAI) for 6 taxonomic classes (reptiles, ray-finned fishes, mammals, birds, insects, and amphibians) across 10 Wikipedia languages, for the period July 2015-March 2020. Coloured lines represent the mean of the bootstrapped indices at each monthly each time step, and coloured bands the 2.5th and 97.5th percentiles: reptiles (black), ray-finned fishes (orange), mammals (blue), birds (green), insects (pink), and amphibians (brown). Taxonomic class panels are ordered by the magnitude of overall increase in each taxonomic class, and for language alphabetically (reproduced from Millard <em>et al</em>. 2021a)</strong></font></p>
 </div>
+</center>
 <p><br> More recently I’ve overseen the development of a near real-time version of the Species Awareness Index, published in a new paper led by Tom Johnson with Richard Cornford, Shawn Dove, and Robin Freeman (Johnson <em>et al</em> 2023). In our paper we also set out a series of considerations for the development of real-time platforms for culturomics, and encourage that the field movestowards developing a real-time observatory that can evolve with the structure of the web.</p>
+<center>
 <div class="figure">
 <img src="Figure_1_real_time.png" id="id" class="class" style="width:70.0%;height:70.0%" alt="" />
 <p class="caption"><font size="2"><strong>Potential application and impact of real-time culturomics, depicting how it could be possible to leverage spikes in interest to support conservation action. Under a non-real-time system, we may miss the spike in interest and fail to garner public support and action. Real-time monitoring of human-nature interactions could enable a reactive approach to conservation funding, that results in a more efficient use of resource.</strong></font></p>
 </div>
+</center>
 <hr />
 </div>
 <div id="informatics-tools-in-ecology" class="section level3">
@@ -311,10 +313,12 @@ img[src*='#center'] {
 <p>I also have a much broader interest in informatics tools in ecology, such as text-mining, web-scraping, Shiny app development, AI tools, and satellite telemetry analyses.</p>
 <p>As part of my PhD I used a set of name-entity recogntion tools (<a href="https://cran.r-project.org/web/packages/taxize/index.html">Taxize</a> and <a href="https://cliff.mediacloud.org/">CLIFF-CLAVIN</a>) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard <em>et al</em> 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. More recently I’ve been collaborating with Tom Johnson, Richard Cornford, Manuella Gonzalez-Suarez, and Robin Freeman to further develop the capabilities of such automated research synthesis in ecology, leading to a publication led by Richard (Cornford <em>et al</em> 2022).</p>
 <p>I was also involved in building an AI app for identifying plant species from photos, the result of which is now published as a freely available <a href="https://zenodo.org/record/3497314#.YHgYlK9KhPY">data set</a>. The app would pull images of plants from Flickr (using <a href="https://docs.ropensci.org/photosearcher/articles/photosearcher.html">photosearcher</a>), predict what plant was in the image (using <a href="https://identify.plantnet.org/">PlantNet</a>), and then map each image onto geographical space (using <a href="https://shiny.rstudio.com/">R Shiny</a> and <a href="https://leafletjs.com/">leaflet</a>).</p>
+<center>
 <div class="figure">
 <img src="abstract_geoparse-taxonomic-group_23d.png" id="id" class="class" style="width:70.0%;height:70.0%" alt="" />
 <p class="caption"><font size="2"><strong>Distribution of the animal pollinator literature broken down into taxonomic groups, for the top 12 genera and top 5 orders. Taxonomic orders are indicated here by fill colour, consistent across top and bottom panels: Hymenoptera (blue), Lepidoptera (pink), Diptera (orange), Apodiformes (green) and Chiroptera (grey). Point size represents the frequency of unique abstract‐genera‐location combinations. ‘Other genera’ here consists of 1001 genera across the Hymentopera, Lepidoptera, Diptera, Apodiformes and Chiroptera. Given the inaccuracies inherent in CLIFF‐CLAVIN, and the problem in assuming all taxonomic names are associated with all locations in an abstract, these results should be interpreted with caution (reproduced from Millard <em>et al</em>. 2020)</strong></font></p>
 </div>
+</center>
 <hr />
 <div id="references" class="section level5">
 <h5><strong>References</strong></h5>
