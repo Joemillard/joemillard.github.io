@@ -4,7 +4,12 @@ title: "Research"
 
 <style>
 body {
-text-align: justify}
+text-align: justify
+}
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
 </style>
 
 ***
