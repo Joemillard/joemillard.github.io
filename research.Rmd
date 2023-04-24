@@ -34,7 +34,7 @@ Our work shows that awareness of biodiversity is likely marginally increasing, b
 
 </center>
 
-<br>
+
 More recently I've overseen the development of a near real-time version of the Species Awareness Index, published in a new paper led by Tom Johnson with Richard Cornford, Shawn Dove, and Robin Freeman (Johnson *et al* 2023). In our paper we also set out a series of considerations for the development of real-time platforms for culturomics, and encourage that the field movestowards developing a real-time observatory that can evolve with the structure of the web.
 
 <center>
