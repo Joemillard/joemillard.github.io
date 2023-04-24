@@ -2,6 +2,11 @@
 title: "Research"
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 ***
 
 ### **Global biodiversity modelling**
