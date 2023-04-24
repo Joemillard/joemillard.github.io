@@ -29,11 +29,12 @@ Our work shows that awareness of biodiversity is likely marginally increasing, b
 
 </center>
 
+<br>
 More recently I've overseen the development of a near real-time version of the Species Awareness Index, published in a new paper led by Tom Johnson with Richard Cornford, Shawn Dove, and Robin Freeman (Johnson *et al* 2023). In our paper we also set out a series of considerations for the development of real-time platforms for culturomics, and encourage that the field movestowards developing a real-time observatory that can evolve with the structure of the web.
 
 <center>
 
-![<font size="2">__Potential application and impact of real-time culturomics, depicting how it could be possible to leverage spikes in interest to support conservation action. Under a non-real-time system, we may miss the spike in interest and fail to garner public support and action.__</font>](Figure_1_real_time.png){#id .class width=70% height=70%}
+![<font size="2">__Potential application and impact of real-time culturomics, depicting how it could be possible to leverage spikes in interest to support conservation action. Under a non-real-time system, we may miss the spike in interest and fail to garner public support and action. Real-time monitoring of human-nature interactions could enable a reactive approach to conservation funding, that results in a more efficient use of resource.__</font>](Figure_1_real_time.png){#id .class width=70% height=70%}
 
 </center>
 
@@ -61,11 +62,11 @@ Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phi
 
 Johnson, T.F., Cornford, R., Dove, S., Freeman, R. and **Millard, J.**, 2023. Achieving a real‐time online monitoring system for conservation culturomics. *Conservation Biology*. DOI: https://doi.org/10.1111/cobi.14096
 
-**Millard, J.W.**, Freeman, R. and Newbold, T., (2020). Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*. DOI: https://doi.org/10.1111/ecog.04532
+**Millard, J.**, Freeman, R. and Newbold, T., (2020). Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*. DOI: https://doi.org/10.1111/ecog.04532
 
-**Millard, J.W.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The species awareness index as a conservation culturomics metric for public biodiversity awareness. *Conservation Biology*. DOI: https://doi.org/10.1111/cobi.13701. Selected to appear in an 'Advancing Conservation Culturomics' special section. 
+**Millard, J.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The species awareness index as a conservation culturomics metric for public biodiversity awareness. *Conservation Biology*. DOI: https://doi.org/10.1111/cobi.13701. Selected to appear in an 'Advancing Conservation Culturomics' special section. 
 
-**Millard, J.W.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications*. DOI: https://doi.org/10.1038/s41467-021-23228-3
+**Millard, J.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications*. DOI: https://doi.org/10.1038/s41467-021-23228-3
 
 
 
