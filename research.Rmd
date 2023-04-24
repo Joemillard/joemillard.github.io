@@ -29,6 +29,14 @@ Our work shows that awareness of biodiversity is likely marginally increasing, b
 
 </center>
 
+More recently I've overseen the development of a near real-time version of the Species Awareness Index, published in a new paper led by Tom Johnson with Richard Cornford, Shawn Dove, and Robin Freeman (Johnson *et al* 2023). In our paper we also set out a series of considerations for the development of real-time platforms for culturomics, and encourage that the field movestowards developing a real-time observatory that can evolve with the structure of the web.
+
+<center>
+
+![<font size="2">__Potential application and impact of real-time culturomics, depicting how it could be possible to leverage spikes in interest to support conservation action. Under a non-real-time system, we may miss the spike in interest and fail to garner public support and action.__</font>](Figure_1_real_time.png){#id .class width=70% height=70%}
+
+</center>
+
 ***
 
 ### **Informatics tools in ecology**
@@ -47,15 +55,17 @@ I was also involved in building an AI app for identifying plant species from pho
 ***
 
 ##### **References**
-Cornford, R., **Millard, J.**, González‐Suárez, M., Freeman, R. and Johnson, T.F., (2022) Automated synthesis of biodiversity knowledge requires better tools and standardised research output. *Ecography*, DOI: https://doi.org/10.1111/ecog.06068
+Cornford, R., **Millard, J.**, González‐Suárez, M., Freeman, R. and Johnson, T.F., (2022) Automated synthesis of biodiversity knowledge requires better tools and standardised research output. *Ecography*. DOI: https://doi.org/10.1111/ecog.06068
 
-Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phillips, H.R., Alhusseini, T.I., Bedford, F.E., Bennett, D.J. and Booth, H., (2017). The database of the PREDICTS (projecting responses of ecological diversity in changing terrestrial systems) project. *Ecology and evolution*, 7(1), pp.145-188. DOI: https://doi.org/10.1002/ece3.2579
+Hudson, L.N., Newbold, T., Contu, S., Hill, S.L., Lysenko, I., De Palma, A., Phillips, H.R., Alhusseini, T.I., Bedford, F.E., Bennett, D.J. and Booth, H., (2017). The database of the PREDICTS (projecting responses of ecological diversity in changing terrestrial systems) project. *Ecology and evolution*. DOI: https://doi.org/10.1002/ece3.2579
 
-**Millard, J.W.**, Freeman, R. and Newbold, T., (2020). Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*, 43(1), pp.44-59. DOI: https://doi.org/10.1111/ecog.04532
+Johnson, T.F., Cornford, R., Dove, S., Freeman, R. and **Millard, J.**, 2023. Achieving a real‐time online monitoring system for conservation culturomics. *Conservation Biology*. DOI: https://doi.org/10.1111/cobi.14096
 
-**Millard, J.W.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The species awareness index as a conservation culturomics metric for public biodiversity awareness. *Conservation Biology*, 35(2), pp.472-482. DOI: https://doi.org/10.1111/cobi.13701. Selected to appear in an 'Advancing Conservation Culturomics' special section. 
+**Millard, J.W.**, Freeman, R. and Newbold, T., (2020). Text‐analysis reveals taxonomic and geographic disparities in animal pollination literature. *Ecography*. DOI: https://doi.org/10.1111/ecog.04532
 
-**Millard, J.W.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications*, 12(2902). DOI: https://doi.org/10.1038/s41467-021-23228-3
+**Millard, J.W.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The species awareness index as a conservation culturomics metric for public biodiversity awareness. *Conservation Biology*. DOI: https://doi.org/10.1111/cobi.13701. Selected to appear in an 'Advancing Conservation Culturomics' special section. 
+
+**Millard, J.W.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications*. DOI: https://doi.org/10.1038/s41467-021-23228-3
 
 
 
