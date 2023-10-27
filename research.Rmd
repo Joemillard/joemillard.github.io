@@ -21,6 +21,15 @@ Our work shows that low levels of intensity can benefit pollinators, but on anth
 
 </center>
 
+In 2023 I published a paper showing that declines in insect pollinators from the interaction of climate change and land use are likely to be greatest in the tropics, potentially putting at risk the production of crops such as coffee and cocoa (Millard *et al* 2023). Importantly, we show that although proportional risk is highly subject to the assumed relationship between pollinator biodiversity and production, temperate regions are consistently projected at low risk, whereas tropical regions such as Southeast Asia are consistently projected at high risk. We also show how the distribution of risk to importers is such that import risk per capita is greater in the global north than the global south.
+
+<center>
+
+![<font size="2">__A) A schematic of models and inputs for our local production risk measure.
+(Top) The PREDICTS database (“Biodiversity assemblages,” subset for a set of “Likely animal pollinators”) is used to build a space-for-time model of pollinator biodiversity change, fitting total abundance as a function of an interaction between land use type and a standardized temperature anomaly of climate change (“Climate data” from the Climatic Research Unit). (Bottom) Change in insect pollinator abundance relative to a baseline (where standardized temperature anomaly is 0) is converted into a crop production loss via a set of linear functions and then converted into a pollination-dependent risk by multiplying the expected change by the pollination-dependent production in each cell (“Crop production” and “Pollination dependence”). Economic loss is calculated from production at risk multiplied by crop price. Numbers in brackets for each input represent the source from which the data originated (as listed in the bibliography). Image credits: Bottom right photo, Ionutzmovie (CC BY 3.0); top right photo, gailhampshire (CC BY 2.0). (reproduced from Millard *et al*. 2023)__</font>](Fig_2.png){#id .class width=70% height=70%}
+
+</center>
+
 ***
 
 ### **Conservation culturomics**
@@ -48,11 +57,13 @@ More recently I've overseen the development of a near real-time version of the S
 ***
 
 ### **Informatics tools in ecology**
-I also have a much broader interest in informatics tools in ecology, such as text-mining, web-scraping, Shiny app development, AI tools, and satellite telemetry analyses. 
+I also have a much broader interest in informatics tools in ecology, such as text-mining, web-scraping, Shiny app development, dynamic meta-analyses, AI tools, and satellite telemetry analyses:
 
-As part of  my PhD I used a set of name-entity recogntion tools ([Taxize](https://cran.r-project.org/web/packages/taxize/index.html) and [CLIFF-CLAVIN](https://cliff.mediacloud.org/)) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. More recently I've been collaborating with Tom Johnson, Richard Cornford, Manuella Gonzalez-Suarez, and Robin Freeman to further develop the capabilities of such automated research synthesis in ecology, leading to a publication led by Richard (Cornford *et al* 2022).
-
-I was also involved in building an AI app for identifying plant species from photos, the result of which is now published as a freely available [data set](https://zenodo.org/record/3497314#.YHgYlK9KhPY). The app would pull images of plants from Flickr (using [photosearcher](https://docs.ropensci.org/photosearcher/articles/photosearcher.html)), predict what plant was in the image (using [PlantNet](https://identify.plantnet.org/)), and then map each image onto geographical space (using [R Shiny](https://shiny.rstudio.com/) and [leaflet](https://leafletjs.com/)).
+* As part of  my PhD I used a set of name-entity recogntion tools ([Taxize](https://cran.r-project.org/web/packages/taxize/index.html) and [CLIFF-CLAVIN](https://cliff.mediacloud.org/)) to explore the taxonomic and geographic distribution of the animal pollinator literature. As part of this research we showed that 25% of animal pollinator related abstracts mention a species of honeybee and 20% a species of bumblebee. We further confirmed that the geographic distribution of the animal pollinator literature (Millard *et al* 2020) is restricted to North America and Europe, although there is still a marked quantity of data outside these regions. 
+* More recently I've been collaborating with Tom Johnson, Richard Cornford, Manuella Gonzalez-Suarez, and Robin Freeman to further develop the capabilities of such automated research synthesis in ecology, leading to a publication led by Richard (Cornford *et al* 2022).
+* I led Grace Skinner in the development of Dynameta, a new R package for dynamic meta-analyes in R Shiny (Skinner *et al* 2023).
+* I've been collaborating with Daan Scheepens, Tim Newbold, and Robin Freeman on the use of ChatGPT for synthesis in ecology.
+* I was involved in building an AI app for identifying plant species from photos, the result of which is now published as a freely available [data set](https://zenodo.org/record/3497314#.YHgYlK9KhPY). The app would pull images of plants from Flickr (using [photosearcher](https://docs.ropensci.org/photosearcher/articles/photosearcher.html)), predict what plant was in the image (using [PlantNet](https://identify.plantnet.org/)), and then map each image onto geographical space (using [R Shiny](https://shiny.rstudio.com/) and [leaflet](https://leafletjs.com/)).
 
 <center>
 
@@ -74,6 +85,10 @@ Johnson, T.F., Cornford, R., Dove, S., Freeman, R. and **Millard, J.**, 2023. Ac
 **Millard, J.**, Gregory, R.D., Jones, K. and Freeman, R., (2021a). The species awareness index as a conservation culturomics metric for public biodiversity awareness. *Conservation Biology*. DOI: https://doi.org/10.1111/cobi.13701. Selected to appear in an 'Advancing Conservation Culturomics' special section. 
 
 **Millard, J.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R.D., Adedoja, O., Gavini, S., Kioko, E.,Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., (2021b) Global effects of land-use intensity on local pollinator biodiversity. *Nature Communications*. DOI: https://doi.org/10.1038/s41467-021-23228-3
+
+**Millard, J.**, Outhwaite, C.L., Ceaușu, S., Carvalheiro, L.G., da Silva e Silva, F.D., Dicks, L.V., Ollerton, J. and Newbold, T., 2023. Key tropical crops at risk from pollinator loss due to climate change and land use. *Science Advances*. DOI: https://doi.org/10.1126/sciadv.adh0756
+
+Skinner, G., Cooke, R., Keum, J., Purvis, A., Raw, C., Woodcock, B.A. and **Millard, J.**, 2023. Dynameta: A dynamic platform for ecological meta-analyses in R Shiny. *SoftwareX*. DOI: https://doi.org/10.1016/j.softx.2023.101439
 
 
 
