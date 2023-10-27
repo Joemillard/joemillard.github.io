@@ -16,7 +16,7 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 
 ### **Employment**
 - **Postdoctoral researcher, the Natural History Museum in London** (2022-present)
-- **Postdoctoral researcher, the Leverhulme Centre for Demographic Science** (2021-2022)
+- **Postdoctoral researcher, Leverhulme Centre for Demographic Science, the University of Oxford** (2021-2022)
 - **UCL Postgraduate teaching assistant** (2019-2021)
 - **Programme Assistant – UNEP-WCMC** (September 2016-June 2017) 
 - **Publishing Assistant – Nature Publishing Group** (November 2015-September 2016) 
@@ -27,26 +27,22 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ### **Publications**
 
 ##### **Peer reviewed**
-- Cornford, R., **Millard, J.**, González‐Suárez, M., Freeman, R. and Johnson, T.F (2022) Automated synthesis of biodiversity knowledge requires better tools and standardised research output. Ecography, DOI: https://doi.org/10.1111/ecog.06068
-- **Millard, J.**, Freeman, R., Newbold, T., 2020. Text-analysis reveals taxonomic and geographic disparities in animal pollination literature. Ecography, DOI: https://doi.org/10.1111/ecog.04532  
-- **Millard, J.**, Gregory, R., Jones, K., Freeman, R, 2020. The species awareness index as a conservation culturomics metric for public biodiversity awareness. Conservation Biology, DOI: https://doi.org/10.1101/2020.08.17.254177.  
-- **Millard, J.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R., Adedoja, O., Gavini, S., Kioko, E., Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., Global effects of land-use intensity on local pollinator biodiversity. Nature Communications, DOI: https://doi.org/10.1038/s41467-021-23228-3
-- Newbold, T., Adams, G.L., Robles, G.A., Boakes, E.H., Ferreira, G.B., Chapman, A.S., Etard, A., Gibb, R., **Millard, J.**, Outhwaite, C.L. and Williams, J.J., 2019. Climate and land-use change homogenise terrestrial biodiversity, with consequences for ecosystem functioning and human well-being. Emerging Topics in Life Sciences, DOI: https://doi.org/10.1042/ETLS20180135
-- Johnson, T. F., Cornford, R., Dove, S., Freeman, R., **Millard, J.** Achieving a real-time online monitoring system for conservation culturomics. Conservation Biology, DOI: https://doi.org/10.1111/cobi.14096
-- Skinner, S., Purvis, A., Cooke, R., Raw, C., K, Junghyuk., **Millard, J.** Dynameta: a dynamic platform for ecological meta-analyses in R Shiny. SoftwareX
-
-##### **In review**
-- **Millard, J.**, Outhwaite, O., Dicks, L., Ollerton, J., Ceausu, S., Newbold, T., Key tropical crops at risk from
-pollinator biodiversity loss due to climate change and land use
+1. Cornford, R., **Millard, J.**, González‐Suárez, M., Freeman, R. and Johnson, T.F (2022) Automated synthesis of biodiversity knowledge requires better tools and standardised research output. Ecography, DOI: https://doi.org/10.1111/ecog.06068
+2. **Millard, J.**, Freeman, R., Newbold, T., 2020. Text-analysis reveals taxonomic and geographic disparities in animal pollination literature. Ecography, DOI: https://doi.org/10.1111/ecog.04532  
+3. **Millard, J.**, Gregory, R., Jones, K., Freeman, R, 2020. The species awareness index as a conservation culturomics metric for public biodiversity awareness. Conservation Biology, DOI: https://doi.org/10.1101/2020.08.17.254177.  
+4. **Millard, J.**, Outhwaite, C., Kinnersley, R., Freeman, R., Gregory, R., Adedoja, O., Gavini, S., Kioko, E., Kuhlmann, M., Ollerton, J., Ren, Z-X., and Newbold, T., Global effects of land-use intensity on local pollinator biodiversity. Nature Communications, DOI: https://doi.org/10.1038/s41467-021-23228-3
+5. Newbold, T., Adams, G.L., Robles, G.A., Boakes, E.H., Ferreira, G.B., Chapman, A.S., Etard, A., Gibb, R., **Millard, J.**, Outhwaite, C.L. and Williams, J.J., 2019. Climate and land-use change homogenise terrestrial biodiversity, with consequences for ecosystem functioning and human well-being. Emerging Topics in Life Sciences, DOI: https://doi.org/10.1042/ETLS20180135
+6. Johnson, T. F., Cornford, R., Dove, S., Freeman, R., **Millard, J.** Achieving a real-time online monitoring system for conservation culturomics. Conservation Biology, DOI: https://doi.org/10.1111/cobi.14096
+7. Skinner, S., Purvis, A., Cooke, R., Raw, C., K, Junghyuk., **Millard, J.** Dynameta: a dynamic platform for ecological meta-analyses in R Shiny. SoftwareX. DOI: https://doi.org/10.1016/j.softx.2023.101439
+8. **Millard, J.**, Outhwaite, O., Dicks, L., Ollerton, J., Ceausu, S., Newbold, T., Key tropical crops at risk from
+pollinator biodiversity loss due to climate change and land use. Science Advances, DOI: https://doi.org/10.1126/sciadv.adh0756
+9. Verissimo, D., Johnson, T., **Millard, J.**, Roll, U., Adopt digital tools to monitor social dimensions of the global biodiversity framework. Conservation Letters (in press)
 
 ##### **In prep**
-- **Millard, J.**, Akimova, E., Ding, X., Leasure, D., Zhao, B., Mills, M., Stringent COVID-19 government
-restrictions were associated with a marked increase in Twitter activity in Europe
-- Williams, J., Newbold, T., **Millard, J.**, Groner, V., Pearson, R., Important pollinators respond less negatively to anthropogenic land use than other animals
-
-##### **Data**
-- August, T., Affouard, A., Fox, N., Marlowe, C. **Millard, J.**, Sanderson, Roy, & Bonnet, Pierre. (2019). AI validated plant observations from social media: Flickr images from central London 2011-2019 (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3497314  
-- **Millard, J.**, Newbold, T. (2022). A global dataset of likely animal pollinators (v1.1). Zenodo. https://doi.org/10.5281/zenodo.7385950
+10. **Millard, J.**, Akimova, E., Ding, X., Leasure, D., Zhao, B., Mills, M., Stringent COVID-19 government
+11. Williams, J., Newbold, T., **Millard, J.**, Groner, V., Pearson, R., Important pollinators respond less negatively to anthropogenic land use than other animals
+12.	**Millard, J**. Coining one currency for nature. EcoEvoRxiv. DOI: https://doi.org/10.32942/X2TC7H
+13. Scheepens, D., Freeman, R., **Millard, J.**, Newbold, T., Large language models provide a significant improvement in automating synthesis of ecological information
 
 ***
 
