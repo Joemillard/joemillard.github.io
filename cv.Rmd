@@ -40,8 +40,8 @@ pollinator biodiversity loss due to climate change and land use. Science Advance
 9. Verissimo, D., Johnson, T., **Millard, J.**, Roll, U., Adopt digital tools to monitor social dimensions of the global biodiversity framework. Conservation Letters. DOI: https://doi.org/10.1111/conl.12991
 10. Scheepens, D., Freeman, R., **Millard, J.**, Newbold, T., Large language models help facilitate the automated synthesis of information on potential pest controllers. Methods in Ecology and Evolution. DOI: https://doi.org/10.1111/2041-210X.14341
 11. Williams, J., Newbold, T., **Millard, J.**, Groner, V., Pearson, R., Important pollinators respond less negatively to anthropogenic land use than other animals. Ecology and Evolution (in press)
-12. ChatGPT is likely reducing opportunity for support, friendship, and learned kindness in research (in press). Methods in Ecology and Evolution
-13. Pressure to publish introduces LLM risks (in press). Methods in Ecology and Evolution
+12. **Millard, J.**, Christie, A., Dicks, L., Isip, J., Johnson, T., Skinner, G., Spake, R., ChatGPT is likely reducing opportunity for support, friendship, and learned kindness in research (in press). Methods in Ecology and Evolution
+13. Johnson, T.F., Simmons, B., **Millard, J.**, Strydom, T., Danet A., Evans, L., Pressure to publish introduces LLM risks (in press). Methods in Ecology and Evolution
 
 ##### **In prep**
 14. **Millard, J.**, Akimova, E., Ding, X., Leasure, D., Zhao, B., Mills, M., Stringent COVID-19 government restrictions were associated with a marked increase in Twitter activity in Europe. SocArXiv. DOI: https://doi.org/10.31235/osf.io/g9apk
@@ -53,6 +53,7 @@ pollinator biodiversity loss due to climate change and land use. Science Advance
 20. Cooke, R., Outhwaite, C., Bladon, A., **Millard, J.**, Rodger, J., Dong, Z., Dyer E., Edney, S., Murphy, J., Dicks, L., Hui, C., Jones, I., Newbold, T., Purvis, A., Roy, H., Woodcock, B., & Isaac, N. J. B. Insect Insect Time Series (IN-TIME), a database of worldwide insect trends
 21. Wenban-Smith, E., Barnes, L., **Millard, J.**, Dicks, L., Turner, E,. Bladon, A., Meta-analysis of extreme temperature effects on the abundance and survival of Hymenoptera and Lepidoptera
 22. Outhwaite, C., Purvis A., Newbold, T., Bladon, A., Cooke, R., **Millard, J.,** Dicks L., Isaac, N., The response of Hymenopteran (Bees, Wasps & Ants) biodiversity to a changing world
+23. **Millard, J.**, Varah, A., Isip, J., Tudge, S., Contu, S., Burton, V., Johnson, T., Purvis, A., De Palma, A., Predictions of biodiversity change are question dependent
 
 ***
 
