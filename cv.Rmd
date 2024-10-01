@@ -15,7 +15,8 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ***
 
 ### **Employment**
-- **Postdoctoral researcher, the Natural History Museum in London** (2022-present)
+- **Leverhulme Early Career Fellow, the University of Cambridge** (2024-present)
+- **Postdoctoral researcher, the Natural History Museum in London** (2022-2024)
 - **Postdoctoral researcher, Leverhulme Centre for Demographic Science, the University of Oxford** (2021-2022)
 - **UCL Postgraduate teaching assistant** (2019-2021)
 - **Programme Assistant – UNEP-WCMC** (September 2016-June 2017) 
@@ -36,13 +37,22 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 7. Skinner, S., Purvis, A., Cooke, R., Raw, C., K, Junghyuk., **Millard, J.** Dynameta: a dynamic platform for ecological meta-analyses in R Shiny. SoftwareX. DOI: https://doi.org/10.1016/j.softx.2023.101439
 8. **Millard, J.**, Outhwaite, O., Dicks, L., Ollerton, J., Ceausu, S., Newbold, T., Key tropical crops at risk from
 pollinator biodiversity loss due to climate change and land use. Science Advances, DOI: https://doi.org/10.1126/sciadv.adh0756
-9. Verissimo, D., Johnson, T., **Millard, J.**, Roll, U., Adopt digital tools to monitor social dimensions of the global biodiversity framework. Conservation Letters (in press)
+9. Verissimo, D., Johnson, T., **Millard, J.**, Roll, U., Adopt digital tools to monitor social dimensions of the global biodiversity framework. Conservation Letters
+10. Scheepens, D., Freeman, R., **Millard, J.**, Newbold, T., Large language models provide a significant improvement in automating synthesis of ecological information
+11. Williams, J., Newbold, T., **Millard, J.**, Groner, V., Pearson, R., Important pollinators respond less negatively to anthropogenic land use than other animals. Ecography. (in press)
+12. ChatGPT is likely reducing opportunity for support, friendship, and learned kindness in research (in press). Methods in Ecology and Evolution
+13. Pressure to publish introduces LLM risks (in press). Methods in Ecology and Evolution
 
 ##### **In prep**
-10. **Millard, J.**, Akimova, E., Ding, X., Leasure, D., Zhao, B., Mills, M., Stringent COVID-19 government restrictions were associated with a marked increase in Twitter activity in Europe. SocArXiv. DOI: https://doi.org/10.31235/osf.io/g9apk
-11. Williams, J., Newbold, T., **Millard, J.**, Groner, V., Pearson, R., Important pollinators respond less negatively to anthropogenic land use than other animals
-12.	**Millard, J**. Coining one currency for nature. EcoEvoRxiv. DOI: https://doi.org/10.32942/X2TC7H
-13. Scheepens, D., Freeman, R., **Millard, J.**, Newbold, T., Large language models provide a significant improvement in automating synthesis of ecological information
+14. **Millard, J.**, Akimova, E., Ding, X., Leasure, D., Zhao, B., Mills, M., Stringent COVID-19 government restrictions were associated with a marked increase in Twitter activity in Europe. SocArXiv. DOI: https://doi.org/10.31235/osf.io/g9apk
+15.	**Millard, J**. Mobilising central bank digital currency to bend the curve of biodiversity loss. EcoEvoRxiv. DOI: https://doi.org/10.32942/X2TC7H
+14. Meta-analysis shows livestock farming reduces aquatic insect species richness but not total abundance
+15. Global meta-analysis reveals overall negative impacts of invasive species on terrestrial insects, despite highly variable responses
+16. A multi-threat meta-analytic database for understanding insect biodiversity change
+17. Integrating evidence across time, space, experiments, and experts to understand insect change
+18. Insect Time Series (IN-TIME), a database of worldwide insect trends
+19. Meta-analysis of extreme temperature effects on the abundance and survival of Hymenoptera and Lepidoptera
+19. The response of Hymenopteran (Bees, Wasps & Ants) biodiversity to a changing world
 
 ***
 

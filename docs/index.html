@@ -13,7 +13,7 @@
 
 <title>About</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.26/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
@@ -141,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -174,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -183,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -278,8 +275,9 @@ $(document).ready(function () {
 <p><img src="Pic_3.jpeg" id="id" class="class" style="width:90.0%;height:90.0%" /></p>
 </div>
 <div class="col-6 col-sm-8">
-<p>I’m Joe, a data scientist and computational ecologist at the Natural History Museum, interested in the causes and consequences of global biodiversity change (particularly pollinators and insects), the power of online data in quantifying biodiversity awareness, and all things interdisciplinary research.</p>
-<p>I’ve recently moved from the Leverhulme Centre for Demographic Science (University of Oxford) where I worked as a postdoctoral researcher on the Advanced Grant CHRONO, researching the causes of changes in human sleep disruption. I completed my PhD jointly between UCL, the Institute of Zoology, and the RSPB (CASE partnership), supervised by <a href="https://timnewbold.github.io/">Dr Tim Newbold</a>, <a href="https://www.zsl.org/science/users/robin-freeman">Dr Robin Freeman</a>, and <a href="https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/richard-gregory/">Prof. Richard Gregory</a>. My PhD research explored a broad spectrum of tools and questions in the context of pollinator biodiversity change, including the use of text-mining tools to quantify biases and synthesise research data, the response of global pollinator biodiversity to land-use and climate change, and the potential of Wikipedia data for quantifying change in pollinator biodiversity awareness.</p>
+<p>I’m Joe, a data scientist and computational ecologist at the University of Cambridge (Leverhulme Early Career Fellow), interested in the causes and consequences of global biodiversity change (particularly pollinators and insects), unconventional monetary policy intervention for biodiversity change, and all things interdisciplinary research.</p>
+<p>I’ve recently moved from the Natural History Museum where I worked on the NERC Highlights grant GLiTRS (<a href="https://glitrs.ceh.ac.uk/" class="uri">https://glitrs.ceh.ac.uk/</a>), developing statistical models to predict insect biodiversity change. Prior to that I worked at the Leverhulme Centre for Demographic Science (University of Oxford) as a postdoctoral researcher on the Advanced Grant CHRONO, researching the causes of changes in human sleep disruption.</p>
+<p>I completed my PhD jointly between UCL, the Institute of Zoology, and the RSPB (CASE partnership), supervised by <a href="https://timnewbold.github.io/">Dr Tim Newbold</a>, <a href="https://www.zsl.org/science/users/robin-freeman">Dr Robin Freeman</a>, and <a href="https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/richard-gregory/">Prof. Richard Gregory</a>. My PhD research explored a broad spectrum of tools and questions in the context of pollinator biodiversity change, including the use of text-mining tools to quantify biases and synthesise research data, the response of global pollinator biodiversity to land-use and climate change, and the potential of Wikipedia data for quantifying change in pollinator biodiversity awareness.</p>
 <p>Prior to my PhD I worked at UNEP-WCMC building automated data handling systems for wildlife trade data, and at the journal Scientific Reports in manuscript peer-review and decisions.</p>
 </div>
 </div>
