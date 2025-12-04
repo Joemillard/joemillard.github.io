@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Research"
-      href: research.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Thoughts"
+      href: thoughts.html
     - text: "CV"
       href: cv.html
 output:
