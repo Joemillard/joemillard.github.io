@@ -48,7 +48,7 @@ More recently I've overseen the development of a near real-time version of the S
 
 <center>
 
-![<font size="2">__Potential application and impact of real-time culturomics, depicting how it could be possible to leverage spikes in interest to support conservation action. Under a non-real-time system, we may miss the spike in interest and fail to garner public support and action. Real-time monitoring of human-nature interactions could enable a reactive approach to conservation funding, that results in a more efficient use of resource. (reproduced from Johnson *et al*. 2023)__</font>](Figure_1_real_time.png){#id .class width=70% height=70%}
+![<font size="2">__Potential application and impact of real-time culturomics, depicting how it could be possible to leverage spikes in interest to support conservation action. Under a non-real-time system, we may miss the spike in interest and fail to garner public support and action. Real-time monitoring of human-nature interactions could enable a reactive approach to conservation funding, that results in a more efficient use of resource (reproduced from Johnson *et al*. 2023)__</font>](Figure_1_real_time.png){#id .class width=70% height=70%}
 
 </center>
 
