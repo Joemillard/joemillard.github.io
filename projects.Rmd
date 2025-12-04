@@ -1,0 +1,23 @@
+---
+title: "Projects"
+---
+
+<style>
+body {
+text-align: justify
+}
+</style>
+
+***
+
+### **Global biodiversity modelling**
+
+### **Digital metrics for monitoring human-nature interactions**
+
+### **Loss-of-control risk for autonomous systems in conservation**
+
+### **Unconventional monetary policy intervention for biodiversity change**
+
+### **Metacognition in relation to communication, decision-making, and strategic leadership in research**
+
+### **Foundational AI for the simulation of ecological interactions**

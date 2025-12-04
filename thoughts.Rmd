@@ -1,0 +1,11 @@
+---
+title: "Thoughts"
+---
+
+<style>
+body {
+text-align: justify
+}
+</style>
+
+***

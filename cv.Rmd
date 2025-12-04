@@ -15,9 +15,10 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 ***
 
 ### **Employment**
+- **Bye-Fellow – St Edmund's College** (2025-present)
 - **Leverhulme Early Career Fellow – the University of Cambridge** (2024-present)
 - **Postdoctoral researcher – the Natural History Museum in London** (2022-2024)
-- **Postdoctoral researcher – Leverhulme Centre for Demographic Science, the University of Oxford** (2021-2022)
+- **Postdoctoral researcher – Leverhulme Centre for Demographic Science and Nuffield College, the University of Oxford** (2021-2022)
 - **UCL Postgraduate teaching assistant** (2019-2021)
 - **Programme Assistant – UNEP-WCMC** (September 2016-June 2017) 
 - **Publishing Assistant – Nature Publishing Group** (November 2015-September 2016) 
@@ -58,25 +59,3 @@ title: "Summary [(Full CV)](https://github.com/Joemillard/joemillard.github.io/b
 26. **Millard, J.**, Varah, A., Isip, J., Tudge, S., Contu, S., Burton, V., Johnson, T., Purvis, A., De Palma, A., Predictions of biodiversity change are question dependent
 
 ***
-
-### **Invited talks and Symposia**
-- **Entomology 2025 evidence synthesis symposium**: co-lead, keynote speaker, and panellist at a symposium along with Eliza Grames on insect biodiversity change
-- **Royal Society Recovering Nature event**: building on Georgina Mace's work to ensure a biodiverse
-and liveable future – invited as one of 12 contributed speakers building on Georgina’s work
-- **ICCB 2023 round-table symposium**; Large scale monitoring of perceptions of nature: state of the art
-and ways forward – co-author on accepted proposal, and then group lead on presentation entitled
-“Achieving a real-time online monitoring system for conservation culturomics”
-- **NHM & Turing AI Lunch Series** – invite only lunch for AI scientists working in the natural and
-environmental sciences
-- **Linnaean Student Conference 2019** – The importance and diversity of animal pollination
-(https://www.youtube.com/watch?v=qn0sCxJiTdI&t=5854s)
-- **Planet PhD podcast** – Pollinator biodiversity in a changing world
-(https://planetphd.podbean.com/e/joe-millard-pollinator-biodiversity-in-a-changing-world/)
-- **University College London seminar 2019** – Text-analysis reveals taxonomic and geographic disparities
-in animal pollination literature
-- **University of São Paulo, Brazil 2019** – Postgraduate study in the UK: How, when and why?
-- **Natural History Museum seminar 2022** – Worldwide vulnerability of local pollinator abundance and crop
-pollination to land-use and climate change
-- **University of Oxford seminar 2021** - Pollinators, culturomics, and chronotype: a summary of my
-background and ideas for future research
-- **Online University College London seminar 2021** – The Species Awareness Index
