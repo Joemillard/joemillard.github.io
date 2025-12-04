@@ -19,6 +19,6 @@ Prior to Cambridge I worked at the Natural History Museum on the NERC Highlights
 
 I completed my PhD jointly between UCL, the Institute of Zoology, and the RSPB (CASE partnership), supervised by [Dr Tim Newbold](https://timnewbold.github.io/), [Dr Robin Freeman](https://www.zsl.org/science/users/robin-freeman), and [Prof. Richard Gregory](https://profiles.ucl.ac.uk/60259-richard-gregory). My PhD research explored a broad spectrum of tools and questions in the context of pollinator biodiversity change, including the use of text-mining tools to quantify  biases and synthesise research data, the response of global pollinator biodiversity to land-use and climate change, and the potential of Wikipedia data for quantifying change in pollinator biodiversity awareness.
 
-Prior to my PhD I worked at UNEP-WCMC converting VBA macros to R Shiny, and at the journal Scientific Reports on manuscript peer-review, decisions, the assessment of clinical trials, and the growth of the editorial board.
+Prior to my PhD I worked at UNEP-WCMC converting VBA macros to R Shiny, and at the journal Scientific Reports on manuscript peer-review, decisions, the assessment of clinical trials, and the growth of the editorial board. I also worked at a cafe where they let me make scones. Once.
 </div>
 </div>
