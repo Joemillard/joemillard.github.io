@@ -11,7 +11,7 @@ title: "About"
 </div>
 
 <div class = "col-6 col-sm-8">
-I’m Joe, an interdisciplinary computational ecologist at the University of Cambridge (Leverhulme Early Career Fellow). I have a broad interest in the causes and consequences of global biodiversity change (particularly pollinators and insects), loss-of-control risk for autonomous systems in conservation, unconventional monetary policy intervention for biodiversity change, combining distinct forms of foundational AI for the simulation of ecological interactions, solving problems at the intersection of science and engineering, and metacognition in relation to decision-making and strategic leadership in research.
+I’m Joe, an interdisciplinary computational ecologist at the University of Cambridge (Leverhulme Early Career Fellow). I have a broad interest in the causes and consequences of global biodiversity change (particularly pollinators and insects), loss-of-control risk for autonomous systems in conservation, unconventional monetary policy intervention for biodiversity change, combining distinct forms of foundational AI for the simulation of ecological interactions, solving problems at the intersection of science and engineering, and thinking about how to think and lead more effectively.
 
 I'm a strong believer in [kindness](https://doi.org/10.1111/2041-210X.14395) and the philosophy of [Quiet](https://en.wikipedia.org/wiki/Quiet:_The_Power_of_Introverts_in_a_World_That_Can%27t_Stop_Talking). I also read and write hard science-fiction. Ask me about it and I will probably try to lend you my copy of [Blindsight](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)).
 
